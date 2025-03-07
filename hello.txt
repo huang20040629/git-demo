@@ -3,3 +3,6 @@ hello world!
 hello C++!
 hello Java!
 hello scau!
+hello huang!
+hello git!
+hello github!
